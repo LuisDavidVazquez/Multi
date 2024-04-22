@@ -1,0 +1,8 @@
+{
+  "protocol": "http",
+  "host": "localhost",
+  "port": 3030,
+  "protocolws": "ws",
+  "hostws": "localhost",
+  "portws": 5555
+}
